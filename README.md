@@ -24,6 +24,7 @@ In order to use the PCB Schematic Checker desktop client. You need to purchase a
 
 Alternatively, the tool has an online version that can be accessed [here](http://app.simulatetest.com). 
 It is free for students. For commercial use, a fee is assessed per design. 
+
 See [here](http://www.simulatetest.com/Pricing) for updated pricing.
 
 ## Resources
