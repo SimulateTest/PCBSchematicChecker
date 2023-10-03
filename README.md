@@ -22,8 +22,9 @@ To install the PCB Schematic Checker Windows Desktop Client, follow the steps be
 
 In order to use the PCB Schematic Checker desktop client. You need to purchase a license key by reaching out to us at [Contact Us](https://www.simulatetest.com/ContactUs).
 
-Alternatively, the PCB Schematic Checker has an online version that can be accessed [here](http://app.simulatetest.com). 
-It is free for students. For commercial use, a fee is assessed per design. See [here](http://www.simulatetest.com/Pricing) for updated pricing.
+Alternatively, the tool has an online version that can be accessed [here](http://app.simulatetest.com). 
+It is free for students. For commercial use, a fee is assessed per design. 
+See [here](http://www.simulatetest.com/Pricing) for updated pricing.
 
 ## Resources
 
