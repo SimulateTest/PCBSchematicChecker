@@ -4,7 +4,7 @@
 
 The **PCB Schematic Checker** is a dedicated tool designed to validate your Printed Circuit Board (PCB) designs, ensuring they are free of errors and optimized for performance. By allowing users to upload an IPC file and a schematic PDF, the tool performs a thorough, automated check of your PCB design. Additionally, it simulates realistic operating conditions by allowing users to select from common power supplies, Voltage/Current Source Instruments (VIs), and various instrument models that integrate with your board, thus enhancing the accuracy of its checks and providing in-depth insights into your circuit's functionality. Compatible with Altium and Allegro PCB Designs.
 
-Checkout our Live Demo [here](http://app.simulatetest.com). 
+**_Checkout our Live Demo [here](http://app.simulatetest.com)._**
 
 ### Key Features
 - **Automated Checks**: Validate your PCB design against common issues and pitfalls.
